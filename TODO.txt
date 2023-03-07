@@ -1,5 +1,5 @@
-
-terra pendant - terra quiver????
+Terra pendant - terra quiver????
+(sprite and accessory stats change)
 
 High Hazard destroy boulder particles
 shell and rebels not stackable
