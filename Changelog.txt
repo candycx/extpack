@@ -49,6 +49,7 @@ v 0.1.05
 Crimson Sickle added
 Corrupted Sickle added
 Golden Dagger added
+Lotus Spear added / + Junggle override dust
 Hallowed, Titanium, Adamantite thrower helmets added / with respective set effects
 Venom Fist knockback fixed / melee weapon scaling
 Thrower Emblem now accepted for Avenger Emblem recipe
