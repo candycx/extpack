@@ -46,11 +46,15 @@ Harpy Duster projectile collision fix
 Lich's Revenge tweaks
 
 v 0.1.05
+Added a Goodie Bag on player spawn (contains starting items)
+Cursed Knife added back as a rare Goodie Bag drop
 Crimson Sickle added
 Corrupted Sickle added
 Golden Dagger added
 Lotus Spear added / + Junggle override dust
+Ancient Inscription added / Sand Elemental summon item
 Hallowed, Titanium, Adamantite thrower helmets added / with respective set effects
+Caerulean Spreader sprite tweak / added back
 Recipes fixed to use (RecipeGroupID's)
 Venom Fist knockback fixed / melee weapon scaling
 Thrower Emblem now accepted for Avenger Emblem recipe
