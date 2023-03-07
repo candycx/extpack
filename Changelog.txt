@@ -1,21 +1,4 @@
 
-armorEffectDrawShadowLokis
-	public float arrowDamageAdditiveStack;
-	public float arrowDamage = 1f;
-	public float bulletDamage = 1f;
-	public float rocketDamage = 1f;
-	public bool armorEffectDrawShadowBasilisk;
-	public bool armorEffectDrawOutlinesForbidden;
-
-
-shroomiteStealth
-blackBelt
-pStone
-player.accRunSpeed = 10f; / 52mph compared to 32mph of light. boots
-(boot + wing acc)
-whipRangeMultiplier (float) 0.2
-
-
 terra pendant - terra quiver????
 
 High Hazard destroy boulder particles
