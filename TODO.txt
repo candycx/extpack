@@ -1,6 +1,5 @@
-Terra pendant - terra quiver????
-(sprite and accessory stats change)
-
+GENERAL FIXES
+//
 High Hazard destroy boulder particles
 Shell and Rebels not stackable
 Elder beam rework
@@ -8,24 +7,42 @@ Myst Sickle sprite
 Add caer spreader recipe / tweak sprite
 Cursed Knife mob drop (low chance)
 Speed/life stones to not stack
-Spawner for sand elemental
-Pre-Plantera lacking weapons
+Debuffs on some acc i.e more dmg less deff
+Rightclick use items
 
 
-Junggle themed bow (blade of grass)
+PRE BOSSES
+//
+Small starter bag with goodies
+(10 recall pots, 5 hp pots, hammer, 20 torches)
+
+
+PRE HARDMODE
+//
+Junggle thrower item (with poison) tier below cor/cri sickle
+Move cor/cri sickle post brain/worm ????? (Current: post-eye)
+Junggle themed bow
 Upgraded musket (Higher dmg, more modern sprite)
 Molten tier thrower weapon ((or 2)on fire!) / fiery fragment?
 Thrower weapon with unique attack to skeletron dungeon mob drops
+Thrower armor (molten/bone/obsidian tier)
 +Brid armor / post-skeletron (bones,molten bars,meteorite bars,bee)
 (best pre-hardmode armor)
 
+
+HARDMODE
+//
 Adamantite Cap sprite / name tweak
-Debuffs on some acc i.e more dmg less deff
 Make caer warriors spawn post-plantera ((need a biome)hallow biome low chance?)
-Rightclick use items
+Pre-Plantera lacking weapons
+Caer Armor final sprite tweaks
+Spawner for sand elemental
+Terra pendant - terra quiver????
+(sprite and accessory stats change)
 
-Small starter bag with goodies
 
+CRAFTABLES
+//
 No use for Light Leather ! / delete since vanilla?
 No use for Gold Nuggets ! / delete since vanilla?
 Only 1 use for White Feather
