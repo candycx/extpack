@@ -20,7 +20,6 @@ Small starter bag with goodies
 
 PRE HARDMODE
 //
-Junggle thrower item (with poison) tier below cor/cri sickle
 Move cor/cri sickle post brain/worm ????? (Current: post-eye)
 Junggle themed bow
 Upgraded musket (Higher dmg, more modern sprite)
