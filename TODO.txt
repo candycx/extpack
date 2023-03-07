@@ -11,7 +11,6 @@ Rightclick use items
 
 PRE HARDMODE
 //
-Move cor/cri sickle post brain/worm ????? (Current: post-eye)
 Junggle themed bow
 Upgraded musket (Higher dmg, more modern sprite)
 Molten tier thrower weapon ((or 2)on fire!) / fiery fragment?
