@@ -9,6 +9,7 @@ Cursed Knife mob drop (low chance)
 Speed/life stones to not stack
 Debuffs on some acc i.e more dmg less deff
 Rightclick use items
+Ancient Inscription needs sprite / recipe (code is done(biome/hardmode checks))
 
 
 PRE BOSSES
