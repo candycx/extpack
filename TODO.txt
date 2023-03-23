@@ -27,7 +27,6 @@ Adamantite Cap sprite / name tweak
 Make caer warriors spawn post-plantera ((need a biome)hallow biome low chance?)
 Pre-Plantera lacking weapons
 Caer Armor final sprite tweaks
-Spawner for sand elemental
 Terra pendant - terra quiver????
 (sprite and accessory stats change)
 
@@ -36,6 +35,5 @@ CRAFTABLES
 //
 No use for Light Leather ! / delete since vanilla?
 No use for Gold Nuggets ! / delete since vanilla?
-Only 1 use for White Feather
 Only 2 uses for Fiery Fragment (25 gold)
 
