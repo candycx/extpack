@@ -64,3 +64,4 @@ Toxicodendron added
 Wind Wave added
 Potent Poison added / applied to Lotus Spear+Toxicod.
 Harpy Duster projectile sprite changed
+Crimson/Corruption Sickles moved to post-brain/worm
