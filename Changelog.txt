@@ -58,3 +58,8 @@ Caerulean Spreader sprite tweak / added back
 Recipes fixed to use (RecipeGroupID's)
 Venom Fist knockback fixed / melee weapon scaling
 Thrower Emblem now accepted for Avenger Emblem recipe
+
+v 0.1.07
+Toxicodendron added
+Potent Poison added / applied to Lotus Spear+Toxicod.
+Harpy Duster projectile sprite changed
