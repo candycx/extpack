@@ -13,7 +13,6 @@ pistol with increased right-click dmg but lowered speed
 
 PRE HARDMODE
 //
-Junggle themed bow
 Upgraded musket (Higher dmg, more modern sprite)
 Molten tier thrower weapon ((or 2)on fire!) / fiery fragment?
 Thrower weapon with unique attack to skeletron dungeon mob drops
