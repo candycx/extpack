@@ -6,6 +6,8 @@ Elder beam rework
 Myst Sickle sprite
 Speed/life stones to not stack
 Debuffs on some acc i.e more dmg less deff
+Add laser dmg "sub-class"
+Terra wings new sprite
 
 Rightclick use items
 pistol with increased right-click dmg but lowered speed
