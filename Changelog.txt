@@ -63,6 +63,7 @@ v 0.1.07
 Toxicodendron added
 Wind Wave added
 Potent Poison added / applied to Lotus Spear+Toxicod.
+Endless Caerulean Arrow Quiver added
 Harpy Duster projectile sprite changed
 Crimson/Corruption Sickles moved to post-brain/worm
 Terra's Pendant renamed to Terra Quiver / new stats + inherited magic quiver attributes
