@@ -8,6 +8,8 @@ Crimson/Corruption Sickles moved to post-brain/worm
 Terra's Pendant renamed to Terra Quiver / new stats + inherited magic quiver attributes
 Sharpenned Arrow Tip now only boosts arrow damage
 
+Light Leather removed
+
 Accessory draw sprite additions
 *Terra Quiver, Venom Fist
 *
