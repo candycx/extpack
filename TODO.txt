@@ -1,22 +1,19 @@
 GENERAL FIXES
 //
 High Hazard destroy boulder particles
-Shell and Rebels not stackable
 Elder beam rework
 Myst Sickle sprite
-Speed/life stones to not stack
 Debuffs on some acc i.e more dmg less deff
 Add laser dmg "sub-class"
 Terra wings new sprite
 
 Rightclick use items
-pistol with increased right-click dmg but lowered speed
 
 
 PRE HARDMODE
 //
-Upgraded musket (Higher dmg, more modern sprite)
-Molten tier thrower weapon ((or 2)on fire!) / fiery fragment?
+Upgraded musket (Higher dmg, more modern sprite) / awp?
+Molten tier thrower weapon / fiery fragment?
 Thrower weapon with unique attack to skeletron dungeon mob drops
 Thrower armor (molten/bone/obsidian tier)
 +Brid armor / post-skeletron (bones,molten bars,meteorite bars,bee)
@@ -38,4 +35,3 @@ CRAFTABLES
 No use for Light Leather ! / delete since vanilla?
 No use for Gold Nuggets ! / delete since vanilla?
 Only 2 uses for Fiery Fragment (25 gold)
-
