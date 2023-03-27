@@ -7,6 +7,9 @@ Harpy Duster projectile sprite changed
 Crimson/Corruption Sickles moved to post-brain/worm
 Terra's Pendant renamed to Terra Quiver / new stats + inherited magic quiver attributes
 Sharpenned Arrow Tip now only boosts arrow damage
+
 Accessory draw sprite additions
 *Terra Quiver, Venom Fist
 *
+
+Caerulean Armor sprite fixes
