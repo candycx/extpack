@@ -29,3 +29,5 @@ AK47 shoot sound added ~ custom()
 
 New Rarity added
 *Rush, Rebels Sigil, Terra Wings
+
+Caerulean ores now spawn more rarely, but way bigger nodes
