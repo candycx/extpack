@@ -18,7 +18,6 @@ Light Leather removed
 
 Accessory draw sprite additions
 *Terra Quiver, Venom Fist
-*
 
 Caerulean Armor sprite fixes
 Adamantite Crown sprite changed
@@ -26,7 +25,7 @@ Elois, Caeulean, Fiery fragment sprite changes
 Harpy Duster projectile sprite changed
 
 Plasma Bow shoot sound added ~ custom()
-AK47 shoot sound added
+AK47 shoot sound added ~ custom()
 
 New Rarity added
 *Rush, Rebels Sigil, Terra Wings
