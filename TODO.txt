@@ -14,8 +14,6 @@ PRE HARDMODE
 Molten tier thrower weapon / fiery fragment?
 Thrower weapon with unique attack to skeletron dungeon mob drops
 Thrower armor (molten/bone/obsidian tier)
-+Brid armor / post-skeletron (bones,molten bars,meteorite bars,bee)
-(best pre-hardmode armor)
 
 
 HARDMODE
