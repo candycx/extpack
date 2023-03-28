@@ -4,7 +4,6 @@ High Hazard destroy boulder particles
 Elder beam rework
 Myst Sickle sprite
 Debuffs on some acc i.e more dmg less deff
-Add laser dmg "sub-class"
 Terra wings new sprite
 
 Rightclick use items
