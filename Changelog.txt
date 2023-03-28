@@ -1,17 +1,18 @@
 v 0.1.07
-Toxicodendron added
-Wind Wave added
+Toxicodendron added ~ junggle tier
+Wind Wave added ~ starter upgraded weapon tier
+AK-47 added ~ post-mecha tier ~ megashark~
+L96 AWP added ~ post-skeletron tier
 Endless Caerulean Arrow Quiver added
-AK-47 added
-L96 AWP added
 
 Potent Poison added / applied to Lotus Spear+Toxicod.
-Harpy Duster projectile sprite changed
 Crimson/Corruption Sickles moved to post-brain/worm
 Terra's Pendant renamed to Terra Quiver / new stats + inherited magic quiver attributes
 Sharpenned Arrow Tip now only boosts arrow damage
 
 Ranged weapon rarities / prices re-set
+Melee weapon rarities / prices re-set
+Thrower weapon rarities / prices re-set
 
 Light Leather removed
 
@@ -21,3 +22,4 @@ Accessory draw sprite additions
 
 Caerulean Armor sprite fixes
 Elois, Caeulean, Fiery fragment sprite changes
+Harpy Duster projectile sprite changed
