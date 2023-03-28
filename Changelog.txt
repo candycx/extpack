@@ -25,4 +25,5 @@ Adamantite Crown sprite changed
 Elois, Caeulean, Fiery fragment sprite changes
 Harpy Duster projectile sprite changed
 
-Plasma Bow shoot sound changed
+Plasma Bow shoot sound added ~ custom()
+AK47 shoot sound added
