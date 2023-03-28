@@ -12,7 +12,6 @@ Rightclick use items
 
 PRE HARDMODE
 //
-Upgraded musket (Higher dmg, more modern sprite) / awp?
 Molten tier thrower weapon / fiery fragment?
 Thrower weapon with unique attack to skeletron dungeon mob drops
 Thrower armor (molten/bone/obsidian tier)
@@ -22,16 +21,11 @@ Thrower armor (molten/bone/obsidian tier)
 
 HARDMODE
 //
-Adamantite Cap sprite / name tweak
 Make caer warriors spawn post-plantera ((need a biome)hallow biome low chance?)
 Pre-Plantera lacking weapons
-Caer Armor final sprite tweaks
-Terra pendant - terra quiver????
-(sprite and accessory stats change)
 
 
 CRAFTABLES
 //
-No use for Light Leather ! / delete since vanilla?
 No use for Gold Nuggets ! / delete since vanilla?
 Only 2 uses for Fiery Fragment (25 gold)
