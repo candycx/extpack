@@ -28,4 +28,5 @@ Harpy Duster projectile sprite changed
 Plasma Bow shoot sound added ~ custom()
 AK47 shoot sound added
 
-New Rarity added / soon implemented on post-ml gear etc
+New Rarity added
+*Rush, Rebels Sigil, Terra Wings
