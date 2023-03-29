@@ -1,3 +1,9 @@
 v 0.1.1.4
 
 Laser.cs added / light animated projectile / spreads into 2 after half (proj.timeleft)
+
+Tooltip.SetDefault("Colors of the rainbow!"+
+"\nShoots a projectile that spreads into two after 0.6s"+
+"\nProjectiles do 50% more damage after spreading"+
+"\nTurns the room into an RGB party!"+
+);
