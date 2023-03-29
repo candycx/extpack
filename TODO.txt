@@ -3,9 +3,9 @@ GENERAL FIXES
 Elder beam rework
 Myst Sickle sprite
 Debuffs on some acc i.e more dmg less deff
+Fiery fragment - make it a pos-skeletron hell npc drop
 
 Rightclick use items
-
 
 PRE HARDMODE
 //
