@@ -1,33 +1,3 @@
-v 0.1.07
-Toxicodendron added ~ junggle tier
-Wind Wave added ~ starter upgraded weapon tier
-AK-47 added ~ post-mecha tier ~ megashark~
-L96 AWP added ~ post-skeletron tier
-Endless Caerulean Arrow Quiver added
+v 0.1.1.4
 
-Potent Poison added / applied to Lotus Spear+Toxicod.
-Crimson/Corruption Sickles moved to post-brain/worm
-Terra's Pendant renamed to Terra Quiver / new stats + inherited magic quiver attributes
-Sharpenned Arrow Tip now only boosts arrow damage
-
-Ranged weapon rarities / prices re-set
-Melee weapon rarities / prices re-set
-Thrower weapon rarities / prices re-set
-
-Light Leather removed
-
-Accessory draw sprite additions
-*Terra Quiver, Venom Fist
-
-Caerulean Armor sprite fixes
-Adamantite Crown sprite changed
-Elois, Caeulean, Fiery fragment sprite changes
-Harpy Duster projectile sprite changed
-
-Plasma Bow shoot sound added ~ custom()
-AK47 shoot sound added ~ custom()
-
-New Rarity added
-*Rush, Rebels Sigil, Terra Wings
-
-Caerulean ores now spawn more rarely, but way bigger nodes
+Laser.cs added / light animated projectile / spreads into 2 after half (proj.timeleft)
