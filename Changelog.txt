@@ -1,5 +1,15 @@
 v 0.1.1.4
 
+HighHazard reworked ~ include projectile trailing, smoke gore, dust
+
+
+
+
+
+
+
+
+
 Laser.cs added / light animated projectile / spreads into 2 after half (proj.timeleft)
 
 Tooltip.SetDefault("Colors of the rainbow!"+
