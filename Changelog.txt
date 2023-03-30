@@ -5,7 +5,8 @@ Cloud Bolt added / Pre-Bosses ~ Magic
 Witch Dream stats and recipe changed
 Dobby - name changed to Interitus Codex, new sprite, new stats
 HighHazard reworked ~ include projectile trailing, smoke gore, dust
-Life stones starting from Vix now include Philisopher's Stone in recipe and add the effect
+Life stones starting from Vix now now gain reduced health potion cd
+Vix recipe changed ~ Philosopher's stone + Souls of Night
 
 Caerulean Warrior not dropping Caerulean Fragments in multiplayer fixed
 Fiery Fragments moved to post-skeletron hell mob drops
