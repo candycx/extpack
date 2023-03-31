@@ -9,6 +9,7 @@ HighHazard reworked ~ include projectile trailing, smoke gore, dust
 Life stones starting from Vix now now gain reduced health potion cd
 Vix recipe changed ~ Philosopher's stone + Souls of Night
 Exitus recipe changed ~ now doesen't require health crystals
+Thrower Emblem recipe removed, WoF drop at 50% chance
 
 Clemens no longer increases players max speed, 2 defense added, item rarity fixed
 Velocitas tooltip fixed, now only requires 5 hallowed bars
