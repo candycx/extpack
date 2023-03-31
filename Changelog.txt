@@ -1,7 +1,5 @@
 v 0.1.1.4
 
-Cloud Bolt added / Pre-Bosses ~ Magic
-
 Witch Dream stats and recipe changed
 Dobby - name changed to Interitus Codex, new sprite, new stats
 HighHazard reworked ~ include projectile trailing, smoke gore, dust
@@ -17,3 +15,9 @@ Velocitas tooltip fixed, now only requires 5 hallowed bars
 Caerulean Warrior not dropping Caerulean Fragments in multiplayer fixed
 Fiery Fragments moved to post-skeletron hell mob drops
 Accessory prices missing fixed
+
+
+~~~~~Content Update
+
+Cloud Bolt added / Pre-Bosses ~ Magic
+Hunter armor set added ~ post-skeletron ~ thrower
