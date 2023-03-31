@@ -3,6 +3,8 @@ GENERAL FIXES
 Elder beam rework
 Myst Sickle sprite
 Debuffs on some acc i.e more dmg less deff
+Celeritas - make into boots
+Witch Dream - rename, resprite, reconsider item stats. Recipe is fine
 
 Rightclick use items
 
