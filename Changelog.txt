@@ -4,6 +4,8 @@ Toxicodendron/Lotus Spear debuff de-spawning NPC's fixed
 Caerulean Warrior not dropping Caerulean Fragments in multiplayer fixed
 HighHazard reworked ~ include projectile trailing, smoke gore, dust
 Life stones starting from Vix now now gain reduced health potion cd
+Celeritas changed to Boots Of Celeritas ~ new recipe ~ new item stats
+Terra wings acc speed decreased from 1.4f to 1.1f, recipe changed
 
 Witch Dream stats and recipe changed
 Dobby - name changed to Interitus Codex, new sprite, new stats
