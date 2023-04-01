@@ -3,7 +3,6 @@ GENERAL FIXES
 Elder beam rework
 Myst Sickle sprite
 Debuffs on some acc i.e more dmg less deff
-Celeritas - make into boots
 Witch Dream - rename, resprite, reconsider item stats. Recipe is fine
 Upgrade to interitus codex, add attack speed and max mana // 2nd UNHOLY TIER
 Upgrade to terra quiver, general ranged dmg, att speed, some defense // 3rd unh
@@ -14,7 +13,6 @@ PRE HARDMODE
 //
 Molten tier thrower weapon / fiery fragment?
 Thrower weapon with unique attack to skeletron dungeon mob drops
-Thrower armor (molten/bone/obsidian tier)
 
 
 HARDMODE
