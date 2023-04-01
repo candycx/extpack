@@ -14,6 +14,7 @@ Exitus recipe changed ~ now doesen't require health crystals
 Clemens no longer increases players max speed, 2 defense added, item rarity fixed
 Velocitas tooltip fixed, 2 defense added, now only requires 5 hallowed bars
 
+Malchite ore resprite, Caerulaen ore dirt color fixed
 Thrower Emblem recipe removed, WoF drop at 50% chance
 Fiery Fragments moved to post-skeletron hell mob drops
 Accessory prices missing fixed
