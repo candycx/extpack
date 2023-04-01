@@ -4,15 +4,15 @@ Toxicodendron/Lotus Spear debuff de-spawning NPC's fixed
 Caerulean Warrior not dropping Caerulean Fragments in multiplayer fixed
 HighHazard reworked ~ include projectile trailing, smoke gore, dust
 Life stones starting from Vix now now gain reduced health potion cd
-Celeritas changed to Boots Of Celeritas ~ new recipe ~ new item stats
-Terra wings acc speed decreased from 1.4f to 1.1f, recipe changed
+Celeritas changed to Boots Of Celeritas ~ new recipe ~ new item stats ~ 4 def
+Terra wings acc speed decreased from 1.4f to 1.1f, recipe changed, now grants 6 defense
 
 Witch Dream stats and recipe changed
 Dobby - name changed to Interitus Codex, new sprite, new stats
 Vix recipe changed ~ Philosopher's stone + Souls of Night
 Exitus recipe changed ~ now doesen't require health crystals
 Clemens no longer increases players max speed, 2 defense added, item rarity fixed
-Velocitas tooltip fixed, now only requires 5 hallowed bars
+Velocitas tooltip fixed, 2 defense added, now only requires 5 hallowed bars
 
 Thrower Emblem recipe removed, WoF drop at 50% chance
 Fiery Fragments moved to post-skeletron hell mob drops
