@@ -1,21 +1,20 @@
 v 0.1.1.4
 
+Toxicodendron/Lotus Spear debuff de-spawning NPC's fixed
+Caerulean Warrior not dropping Caerulean Fragments in multiplayer fixed
+HighHazard reworked ~ include projectile trailing, smoke gore, dust
+Life stones starting from Vix now now gain reduced health potion cd
+
 Witch Dream stats and recipe changed
 Dobby - name changed to Interitus Codex, new sprite, new stats
-HighHazard reworked ~ include projectile trailing, smoke gore, dust
-
-Life stones starting from Vix now now gain reduced health potion cd
 Vix recipe changed ~ Philosopher's stone + Souls of Night
 Exitus recipe changed ~ now doesen't require health crystals
-Thrower Emblem recipe removed, WoF drop at 50% chance
-
 Clemens no longer increases players max speed, 2 defense added, item rarity fixed
 Velocitas tooltip fixed, now only requires 5 hallowed bars
 
-Caerulean Warrior not dropping Caerulean Fragments in multiplayer fixed
+Thrower Emblem recipe removed, WoF drop at 50% chance
 Fiery Fragments moved to post-skeletron hell mob drops
 Accessory prices missing fixed
-
 
 ~~~~~Content Update
 
