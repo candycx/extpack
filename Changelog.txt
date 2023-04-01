@@ -17,8 +17,9 @@ Velocitas tooltip fixed, 2 defense added, now only requires 5 hallowed bars
 Thrower Emblem recipe removed, WoF drop at 50% chance
 Fiery Fragments moved to post-skeletron hell mob drops
 Accessory prices missing fixed
+Golden Nuggets removed
 
-~~~~~Content Update
+~~~~~Content Update~~~~~~
 
 Cloud Bolt added / Pre-Bosses ~ Magic
 Hunter armor set added ~ post-skeletron ~ thrower
