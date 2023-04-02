@@ -14,8 +14,7 @@ Rightclick use items
 
 PRE HARDMODE
 //
-Molten tier thrower weapon / fiery fragment?
-Thrower weapon with unique attack to skeletron dungeon mob drops
+Thrower weapon with unique attack to skeletron dungeon mob drops / tst4
 
 
 HARDMODE
@@ -26,4 +25,3 @@ Pre-Plantera lacking weapons
 
 CRAFTABLES
 //
-No use for Gold Nuggets ! / delete since vanilla?
