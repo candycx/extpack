@@ -2,3 +2,8 @@ v 0.1.1.8
 
 Cloud Bolt added / Pre-Bosses ~ Magic
 Hunter armor set added ~ post-skeletron ~ thrower
+
+Sirenium!
+Sirenium Dust added ~ most weapons ~ pink light on spawned dust
+Sirenium Buff added ~ DoT Burn
+Sirenium Arrow added ~ Sirenium debuff, 13 dmg
