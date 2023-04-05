@@ -6,8 +6,6 @@ Debuffs on some acc i.e more dmg less deff
 Witch Dream - rename, resprite, reconsider item stats. Recipe is fine
 Upgrade to interitus codex, add attack speed and max mana // 2nd UNHOLY TIER
 Upgrade to terra quiver, general ranged dmg, att speed, some defense // 3rd unh
-more malchite stuff
-i.e aglet recipe to require malchite not iron / thrower amulet / 
 L96 AWP add a recipe / drop source
 
 Rightclick use items
