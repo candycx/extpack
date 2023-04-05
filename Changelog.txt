@@ -4,6 +4,15 @@ Cloud Bolt added / Pre-Bosses ~ Magic
 Hunter armor set added ~ post-skeletron ~ thrower
 
 Sirenium!
+//Misc
 Sirenium Dust added ~ most weapons ~ pink light on spawned dust
 Sirenium Buff added ~ DoT Burn
+
+//Weapons, ammo, etc.
 Sirenium Arrow added ~ Sirenium debuff, 13 dmg
+Sirenium Bullet added ~ Sirenium debuff, 8 dmg
+Sirenium Sword added ~ Summons a projectile, Sirenium debuff on proj
+
+//Tools
+Sirenium Pickaxe added ~ fastest pre-hm pick
+Sirenium Haxe added ~ fastest pre-hm
