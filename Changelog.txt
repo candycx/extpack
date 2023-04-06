@@ -3,6 +3,8 @@ v 0.1.1.8
 Cloud Bolt added / Pre-Bosses ~ Magic
 Hunter armor set added ~ post-skeletron ~ thrower
 
+Thrower Amulet, Aglet and Sharpenned Arrow Tip now require Malchite
+
 Sirenium!
 //Misc
 Sirenium Dust added ~ most weapons ~ pink light on spawned dust
@@ -12,7 +14,9 @@ Sirenium Buff added ~ DoT Burn
 Sirenium Arrow added ~ Sirenium debuff, 13 dmg
 Sirenium Bullet added ~ Sirenium debuff, 8 dmg
 Sirenium Sword added ~ Summons a projectile, Sirenium debuff on proj
+Sirenium Bow added ~ convert regular arrows into Sirenium, high dmg
+Culverin added ~ musket/undertaker upgrade
 
 //Tools
-Sirenium Pickaxe added ~ fastest pre-hm pick
+Sirenium Pickaxe added ~ fastest pre-hm pick ~ dropped by Skeletron
 Sirenium Haxe added ~ fastest pre-hm
