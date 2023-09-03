@@ -1,4 +1,10 @@
 v 0.1.2
 
 Moved to 1.4.4
+ -localisation changes
+
 Cleaned up unnecessary lines of code
+ -cleared unnecessary "using xyz"
+
+Sirenium Gun now does not auto-fire
+ -renamed to Sirenium Musket
