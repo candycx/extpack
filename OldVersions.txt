@@ -1,25 +1,26 @@
-v 0.1.1.4
 
-Toxicodendron/Lotus Spear debuff de-spawning NPC's fixed
-Caerulean Warrior not dropping Caerulean Fragments in multiplayer fixed
-Caerulean ore now only generates in hallowed underground
-HighHazard reworked ~ include projectile trailing, smoke gore, dust
-Life stones starting from Vix now now gain reduced health potion cd
-Celeritas changed to Boots Of Celeritas ~ new recipe ~ new item stats ~ 4 def
-Terra wings acc speed decreased from 1.4f to 1.1f, recipe changed, now grants 6 defense
+v 0.1.1.8 ---------
 
-Witch Dream stats and recipe changed
-Dobby - name changed to Interitus Codex, new sprite, new stats
-Vix recipe changed ~ Philosopher's stone + Souls of Night
-Exitus recipe changed ~ now doesen't require health crystals
-Clemens no longer increases players max speed, 2 defense added, item rarity fixed
-Velocitas tooltip fixed, 2 defense added, now only requires 5 hallowed bars
+Cloud Bolt added / Pre-Bosses ~ Magic
+Hunter armor set added ~ post-skeletron ~ thrower
 
-Malchite ore resprite, Caerulaen ore dirt color fixed
-Thrower Emblem recipe removed, WoF drop at 50% chance
-Fiery Fragments moved to post-skeletron hell mob drops
-Accessory prices missing fixed
-Golden Nuggets removed
+Thrower Amulet, Aglet and Sharpenned Arrow Tip now require Malchite
+
+Sirenium!
+//Misc
+Sirenium Dust added ~ most weapons ~ pink light on spawned dust
+Sirenium Buff added ~ DoT Burn
+
+//Weapons, ammo, etc.
+Sirenium Arrow added ~ Sirenium debuff, 13 dmg
+Sirenium Bullet added ~ Sirenium debuff, 8 dmg
+Sirenium Sword added ~ Summons a projectile, Sirenium debuff on proj
+Sirenium Bow added ~ convert regular arrows into Sirenium, high dmg
+Culverin added ~ musket/undertaker upgrade
+
+//Tools
+Sirenium Pickaxe added ~ fastest pre-hm pick ~ dropped by Skeletron
+Sirenium Haxe added ~ fastest pre-hm
 
 *************FILE NOW REVERSED
 
@@ -118,25 +119,25 @@ New Rarity added
 
 Caerulean ores now spawn more rarely, but way bigger nodes
 
-v 0.1.1.8 ---------
+v 0.1.1.4
 
-Cloud Bolt added / Pre-Bosses ~ Magic
-Hunter armor set added ~ post-skeletron ~ thrower
+Toxicodendron/Lotus Spear debuff de-spawning NPC's fixed
+Caerulean Warrior not dropping Caerulean Fragments in multiplayer fixed
+Caerulean ore now only generates in hallowed underground
+HighHazard reworked ~ include projectile trailing, smoke gore, dust
+Life stones starting from Vix now now gain reduced health potion cd
+Celeritas changed to Boots Of Celeritas ~ new recipe ~ new item stats ~ 4 def
+Terra wings acc speed decreased from 1.4f to 1.1f, recipe changed, now grants 6 defense
 
-Thrower Amulet, Aglet and Sharpenned Arrow Tip now require Malchite
+Witch Dream stats and recipe changed
+Dobby - name changed to Interitus Codex, new sprite, new stats
+Vix recipe changed ~ Philosopher's stone + Souls of Night
+Exitus recipe changed ~ now doesen't require health crystals
+Clemens no longer increases players max speed, 2 defense added, item rarity fixed
+Velocitas tooltip fixed, 2 defense added, now only requires 5 hallowed bars
 
-Sirenium!
-//Misc
-Sirenium Dust added ~ most weapons ~ pink light on spawned dust
-Sirenium Buff added ~ DoT Burn
-
-//Weapons, ammo, etc.
-Sirenium Arrow added ~ Sirenium debuff, 13 dmg
-Sirenium Bullet added ~ Sirenium debuff, 8 dmg
-Sirenium Sword added ~ Summons a projectile, Sirenium debuff on proj
-Sirenium Bow added ~ convert regular arrows into Sirenium, high dmg
-Culverin added ~ musket/undertaker upgrade
-
-//Tools
-Sirenium Pickaxe added ~ fastest pre-hm pick ~ dropped by Skeletron
-Sirenium Haxe added ~ fastest pre-hm
+Malchite ore resprite, Caerulaen ore dirt color fixed
+Thrower Emblem recipe removed, WoF drop at 50% chance
+Fiery Fragments moved to post-skeletron hell mob drops
+Accessory prices missing fixed
+Golden Nuggets removed
